@@ -32,14 +32,3 @@ button:hover {
     transition: 0.35s;
 
 }
-
-div {
-    position: fixed;
-    top: 30%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 30px;
-    font-family: arial, sans-serif;
-    text-align: center;
-
-}
